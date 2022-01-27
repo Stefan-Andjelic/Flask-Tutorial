@@ -1,6 +1,3 @@
-from crypt import methods
-from tkinter import N
-from tkinter.messagebox import NO
 from flask import (
     Blueprint, flash, g, redirect, render_template, request, url_for
     )
